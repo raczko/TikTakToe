@@ -1,0 +1,15 @@
+C:\Users\Wiktor\source\repos\WzorceTikTakToe\WzorceTikTakToe\obj\Debug\net6.0\WzorceTikTakToe.csproj.AssemblyReference.cache
+C:\Users\Wiktor\source\repos\WzorceTikTakToe\WzorceTikTakToe\obj\Debug\net6.0\WzorceTikTakToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\source\repos\WzorceTikTakToe\WzorceTikTakToe\obj\Debug\net6.0\WzorceTikTakToe.AssemblyInfoInputs.cache
+C:\Users\Wiktor\source\repos\WzorceTikTakToe\WzorceTikTakToe\obj\Debug\net6.0\WzorceTikTakToe.AssemblyInfo.cs
+C:\Users\Wiktor\source\repos\WzorceTikTakToe\WzorceTikTakToe\obj\Debug\net6.0\WzorceTikTakToe.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\WzorceTikTakToe\WzorceTikTakToe\bin\Debug\net6.0\WzorceTikTakToe.exe
+C:\Users\Wiktor\source\repos\WzorceTikTakToe\WzorceTikTakToe\bin\Debug\net6.0\WzorceTikTakToe.deps.json
+C:\Users\Wiktor\source\repos\WzorceTikTakToe\WzorceTikTakToe\bin\Debug\net6.0\WzorceTikTakToe.runtimeconfig.json
+C:\Users\Wiktor\source\repos\WzorceTikTakToe\WzorceTikTakToe\bin\Debug\net6.0\WzorceTikTakToe.dll
+C:\Users\Wiktor\source\repos\WzorceTikTakToe\WzorceTikTakToe\bin\Debug\net6.0\WzorceTikTakToe.pdb
+C:\Users\Wiktor\source\repos\WzorceTikTakToe\WzorceTikTakToe\obj\Debug\net6.0\WzorceTikTakToe.dll
+C:\Users\Wiktor\source\repos\WzorceTikTakToe\WzorceTikTakToe\obj\Debug\net6.0\refint\WzorceTikTakToe.dll
+C:\Users\Wiktor\source\repos\WzorceTikTakToe\WzorceTikTakToe\obj\Debug\net6.0\WzorceTikTakToe.pdb
+C:\Users\Wiktor\source\repos\WzorceTikTakToe\WzorceTikTakToe\obj\Debug\net6.0\WzorceTikTakToe.genruntimeconfig.cache
+C:\Users\Wiktor\source\repos\WzorceTikTakToe\WzorceTikTakToe\obj\Debug\net6.0\ref\WzorceTikTakToe.dll
